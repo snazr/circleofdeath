@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CircleofDeathActivity!</string>
+    <string name="gameover">Game over</string>
+    <string name="app_name">Circle of Death</string>
+    <string name="imageDescription">Card image</string>
+    <string name="draw">Draw</string>
+    <string name="start">Tap the card to begin.</string>
+    <string name="ace">Waterfall</string>
+    <string name="ace_description">"Start a waterfall"</string>
+    <string name="king">Never Have I Ever</string>
+    <string name="king_description">"Everyone puts three fingers up. Go around the Circle, each person describes something they have NOT done. If you've done it, put a finger down. First person to have all fingers down takes the same number of drinks as fingers left. Ties split drinks."</string>
+    <string name="queen">Question Master</string>
+    <string name="queen_description">"Drawer is the new Question Master. If you answer one of this person's questions from now on, take a drink."</string>
+    <string name="jack">Make a Rule</string>
+    <string name="jack_description">"Invent a rule for everyone to follow, or repeal a previous rule. Rules are persistent through the game."</string>
+    <string name="ten">Moose Master</string>
+    <string name="ten_description">"This person is the new Moose Master. He/she can do antlers, last person to have their antlers up drinks."</string>
+    <string name="nine">Rhyme</string>
+    <string name="nine_description">"Pick a word. Go around the table, rhyming until someone can't think of a word that rhymes and hasn't been said."</string>
+    <string name="eight">Mate</string>
+    <string name="eight_description">"Pick someone to be your drinking buddy."</string>
+    <string name="seven">Heaven</string>
+    <string name="seven_description">"POINT UP RIGHT NAO. Last person drinks."</string>
+    <string name="six">Chicks</string>
+    <string name="six_description">"Ladies drink"</string>
+    <string name="five">Guys</string>
+    <string name="five_description">"Gentlemen drink"</string>
+    <string name="four">Categories</string>
+    <string name="four_description">"Pick a category. Go around the table saying things that fit the category until someone can't think of a word that fits and hasn't been said."</string>
+    <string name="three">Me</string>
+    <string name="three_description">"Drawer drinks."</string>
+    <string name="two">You</string>
+    <string name="two_description">"Drawer picks someone to drink."</string>
+
+    <string-array name="cardEvents">
+        <item>@string/ace</item>
+        <item>@string/king</item>
+        <item>@string/queen</item>
+        <item>@string/jack</item>
+        <item>@string/ten</item>
+        <item>@string/nine</item>
+        <item>@string/eight</item>
+        <item>@string/seven</item>
+        <item>@string/six</item>
+        <item>@string/five</item>
+        <item>@string/four</item>
+        <item>@string/three</item>
+        <item>@string/two</item>
+    </string-array>
+    <string-array name="cardEventsDescriptions">
+        <item>@string/ace_description</item>
+        <item>@string/king_description</item>
+        <item>@string/queen_description</item>
+        <item>@string/jack_description</item>
+        <item>@string/ten_description</item>
+        <item>@string/nine_description</item>
+        <item>@string/eight_description</item>
+        <item>@string/seven_description</item>
+        <item>@string/six_description</item>
+        <item>@string/five_description</item>
+        <item>@string/four_description</item>
+        <item>@string/three_description</item>
+        <item>@string/two_description</item>
+    </string-array>
+    <string name="quit">Press and hold to quit.</string>
+
+</resources>
